@@ -1,0 +1,12 @@
+Mô tả chức năng của các phần trên website:
+
+I. Giao diện : Thiết kế giao diện đẹp mắt, dễ nhìn.. Mang thiên hướng giải trí, thư giãn.
+1. Chức năng quản trị website : Cấu hình hệ thống, giúp quản trị viên dễ dàng thay đổi, kết nối cơ sở dữ liệu, cập nhập từ khóa và các thiết đặt lỗi cho website.
+2. Module giới thiệu website : Giới thiệu về chức năng của website (website cung cấp các thông tin liên quan đến địa điểm du lịch)
+3. Module hỗ trợ trực tuyến : Hỗ trợ, giải đáp thắc mắc của khách du lịch.
+4. Module quản lý bài viết : Quản lý các bài viết mới, bài viết nổi bật.
+5. Module gửi phản hồi : Mỗi bài viết giới thiệu, người xem(du khách) có thể gửi ý kiến phản hồi về để đóng góp ý kiến.
+6. Module mạng xã hội : Khi người dùng(du khách) xem được một bài viết thú vị của website, người dùng(du khách) có thể bày tỏ cảm xúc bằng nút like hay chia sẻ bài viết đó trên mạng xã hội để nhiều người biết đến.
+7. Module ngôn ngữ : Trang bị cho website nhiều hơn 4 thứ tiếng(Việt, Anh, Nga, Trung,...) để đa dạng hóa người truy cập trang.
+8. Module Tìm Kiếm : Cho phép người xem(du khách) tìm kiếm thông tin về địa điểm du lịch.
+9. Module Maps : Cung cấp vị trí của địa điểm du lịch.
